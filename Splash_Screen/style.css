@@ -2,6 +2,21 @@
   DISCLAIMER: This example code is provided for educational and demonstration purposes.
   It may not represent best practices for security and/or performance and is not intended for production use.
 */
+@font-face {
+  font-family: "Oslo Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../Font/Fonts/OsloSansOffice-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Oslo Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../Font/Fonts/OsloSansOffice-Bold.ttf") format("truetype");
+}
 body.no-scroll {
   overflow: hidden; /* Prevent the story scrolling while splash screen in place */
   background-color: #ffffff; /* Background color while the embedded story loads */
