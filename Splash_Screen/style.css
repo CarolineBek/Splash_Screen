@@ -30,7 +30,7 @@ body.no-scroll {
 }
 
 .splash-overlay .splash-screen h1 {
-  font-family: "Roboto Condensed";
+  font-family: "Oslo Sans";
   color: #000000;
   font-size: 4em;
   margin-bottom: 10px;
@@ -44,7 +44,7 @@ body.no-scroll {
 }
 
 .splash-overlay .splash-screen button {
-  font-family: "Roboto Condensed";
+  font-family: "Oslo Sans";
   padding: 10px 20px;
   font-size: 2em;
   color: #ffffff;
